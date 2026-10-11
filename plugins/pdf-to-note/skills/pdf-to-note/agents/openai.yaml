@@ -1,0 +1,4 @@
+interface:
+  display_name: "PDFからnote制作・公開"
+  short_description: "PDF全文を反映した記事・サムネ1案・スライド挿入からnote公開まで"
+  default_prompt: "$pdf-to-note 保存済みの執筆原則を使い、今回のPDFから記事・本文スライドとサムネイル1案を新規作成してください。利用できる場合は指定サムネイルSkillを参照し、公開の明示がなければ下書きまでにしてください。"

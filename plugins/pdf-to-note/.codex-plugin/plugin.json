@@ -1,0 +1,19 @@
+{
+  "name": "pdf-to-note",
+  "version": "0.1.0",
+  "description": "PDF全文に沿った無料note記事、サムネイル1案、本文図版を新規制作し、Codex内蔵ブラウザで公開結果まで確認する。",
+  "author": {
+    "name": "fuuuuuuma"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "PDFからnote制作・公開",
+    "shortDescription": "PDF記事・サムネ1案・図版配置からnote公開まで",
+    "developerName": "fuuuuuuma",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "$pdf-to-note"
+    ]
+  }
+}
